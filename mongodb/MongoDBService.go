@@ -3,7 +3,7 @@ package mongodb
 import (
 	"fmt"
 
-	"github.com/ability-sh/abi-micro/micro"
+	"github.com/matt-abi/abi-micro/micro"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 

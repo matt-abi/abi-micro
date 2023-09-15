@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ability-sh/abi-lib/dynamic"
+	"github.com/matt-abi/abi-lib/dynamic"
 )
 
 type fsLogger struct {

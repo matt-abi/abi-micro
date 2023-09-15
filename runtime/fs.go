@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ability-sh/abi-micro/micro"
+	"github.com/matt-abi/abi-micro/micro"
 	"gopkg.in/yaml.v2"
 )
 

@@ -7,8 +7,8 @@ import (
 
 	"gopkg.in/gomail.v2"
 
-	"github.com/ability-sh/abi-lib/dynamic"
-	"github.com/ability-sh/abi-micro/micro"
+	"github.com/matt-abi/abi-lib/dynamic"
+	"github.com/matt-abi/abi-micro/micro"
 )
 
 type smtpService struct {

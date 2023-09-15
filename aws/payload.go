@@ -8,12 +8,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ability-sh/abi-lib/json"
-	"github.com/ability-sh/abi-micro/micro"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/appconfigdata"
+	"github.com/matt-abi/abi-lib/json"
+	"github.com/matt-abi/abi-micro/micro"
 	"gopkg.in/yaml.v2"
 )
 

@@ -8,8 +8,8 @@ import (
 
 	C "context"
 
-	"github.com/ability-sh/abi-micro/logger"
-	"github.com/ability-sh/abi-micro/micro"
+	"github.com/matt-abi/abi-micro/logger"
+	"github.com/matt-abi/abi-micro/micro"
 )
 
 const (

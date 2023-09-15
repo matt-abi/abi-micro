@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ability-sh/abi-micro/micro"
 	R "github.com/go-redis/redis/v8"
+	"github.com/matt-abi/abi-micro/micro"
 )
 
 type RedisService interface {
